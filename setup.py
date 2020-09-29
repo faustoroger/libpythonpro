@@ -114,11 +114,13 @@ setup(
     name=NAME,
     version=VERSION,
     description=DESCRIPTION,
-    long_description=read('README.md'),
+    # long_description=read('README.md'),
+    long_description="Módulo para exemplificar construção de projetos Python no curso PyTools",
     long_description_content_type='text/markdown',
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
-    license=read('LICENSE'),
+    # license=read('LICENSE'),
+    license="GNU Affero General Public License v3 or later (AGPLv3+)",
     url=URL,
     packages=find_packages(exclude=["tests.*", "tests"]),
     package_data=find_package_data(PACKAGE, only_in_packages=False),
@@ -137,3 +139,4 @@ setup(
     ],
     zip_safe=False,
 )
+
