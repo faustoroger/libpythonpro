@@ -7,3 +7,6 @@ branch pre-fix: pyup-
 close PRs: True
 label PRs: False
 update hashes: True
+requirements:
+  - Pipfile
+  - Pipfile.lock
