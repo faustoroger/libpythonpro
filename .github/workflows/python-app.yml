@@ -22,18 +22,19 @@ jobs:
         architecture: x64
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip        
-        pip install -q -r requirements-dev.txt codecov
+        python -m pip install --upgrade pip
+        pip install -q pipenv codecov
+        pipenv sync --dev
     - name: Run safety check from pyup.io
       run: |
-        safety check
+        pipenv run safety check
     - name: Lint with flake8
       run: |
         # stop the build if there are Python syntax errors or undefined names
-        flake8 . --count --select=E9,F63,F7,F82 --show-source --max-line-length=127 --statistics
+        pipenv run flake8 . --count --select=E9,F63,F7,F82 --show-source --max-line-length=127 --statistics
     - name: Run tests with pytest
       run: |
-        pytest libpythonpro_fr --cov=libpythonpro_fr --cov-report=xml
+        pipenv run pytest libpythonpro_fr --cov=libpythonpro_fr --cov-report=xml
     - name: Run code coverage with codecov
       uses: codecov/codecov-action@v2
       with:
