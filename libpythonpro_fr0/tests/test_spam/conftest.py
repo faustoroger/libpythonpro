@@ -1,6 +1,6 @@
 import pytest
 
-from libpythonpro_fr.spam.db import Conexao
+from libpythonpro_fr0.spam.db import Conexao
 
 
 @pytest.fixture(scope='session')
