@@ -34,7 +34,7 @@ jobs:
         pipenv run flake8 . --count --select=E9,F63,F7,F82 --show-source --max-line-length=127 --statistics
     - name: Run tests with pytest
       run: |
-        pipenv run pytest libpythonpro_fr --cov=libpythonpro_fr --cov-report=xml
+        pipenv run pytest libpythonpro_fr0 --cov=libpythonpro_fr0 --cov-report=xml
     - name: Run code coverage with codecov
       uses: codecov/codecov-action@v2
       with:
