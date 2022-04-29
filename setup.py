@@ -1,9 +1,9 @@
 import codecs
 import os
 import sys
-
 from distutils.util import convert_path
 from fnmatch import fnmatchcase
+
 from setuptools import setup, find_packages
 
 
@@ -104,8 +104,8 @@ def find_package_data(
 PACKAGE = "libpythonpro_fr"
 NAME = PACKAGE
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
-AUTHOR = "Fausto Roger"
-AUTHOR_EMAIL = "hixian@gmail.com"
+AUTHOR = "FR"
+AUTHOR_EMAIL = "libpythonpro@hotmail.com"
 URL = "https://github.com/faustoroger/libpythonpro"
 VERSION = __import__(PACKAGE).__version__
 
