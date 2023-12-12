@@ -18,15 +18,15 @@
     "default": {
         "certifi": {
             "hashes": [],
-            "version": "==2023.7.22"
+            "version": "==2023.11.17"
         },
         "charset-normalizer": {
             "hashes": [],
-            "version": "==3.2.0"
+            "version": "==3.3.2"
         },
         "idna": {
             "hashes": [],
-            "version": "==3.4"
+            "version": "==3.6"
         },
         "requests": {
             "hashes": [],
@@ -34,7 +34,7 @@
         },
         "urllib3": {
             "hashes": [],
-            "version": "==2.0.4"
+            "version": "==2.1.0"
         }
     },
     "develop": {
@@ -44,11 +44,11 @@
         },
         "certifi": {
             "hashes": [],
-            "version": "==2023.7.22"
+            "version": "==2023.11.17"
         },
         "charset-normalizer": {
             "hashes": [],
-            "version": "==3.2.0"
+            "version": "==3.3.2"
         },
         "click": {
             "hashes": [],
@@ -56,7 +56,7 @@
         },
         "coverage": {
             "hashes": [],
-            "version": "==7.3.0"
+            "version": "==7.3.2"
         },
         "dparse": {
             "hashes": [],
@@ -68,7 +68,7 @@
         },
         "idna": {
             "hashes": [],
-            "version": "==3.4"
+            "version": "==3.6"
         },
         "iniconfig": {
             "hashes": [],
@@ -83,11 +83,11 @@
         },
         "packaging": {
             "hashes": [],
-            "version": "==23.1"
+            "version": "==23.2"
         },
         "pluggy": {
             "hashes": [],
-            "version": "==1.2.0"
+            "version": "==1.3.0"
         },
         "py": {
             "hashes": [
@@ -99,7 +99,7 @@
         },
         "pycodestyle": {
             "hashes": [],
-            "version": "==2.11.0"
+            "version": "==2.11.1"
         },
         "pyflakes": {
             "hashes": [],
@@ -111,7 +111,7 @@
         },
         "pytest": {
             "hashes": [],
-            "version": "==7.4.0"
+            "version": "==7.4.3"
         },
         "pytest-cov": {
             "hashes": [],
@@ -119,7 +119,7 @@
         },
         "pytest-mock": {
             "hashes": [],
-            "version": "==3.11.1"
+            "version": "==3.12.0"
         },
         "pyyaml": {
             "hashes": [],
@@ -135,7 +135,7 @@
         },
         "setuptools": {
             "hashes": [],
-            "version": "==68.1.2"
+            "version": "==69.0.2"
         },
         "toml": {
             "hashes": [
@@ -155,7 +155,7 @@
         },
         "urllib3": {
             "hashes": [],
-            "version": "==2.0.4"
+            "version": "==2.1.0"
         }
     }
 }
