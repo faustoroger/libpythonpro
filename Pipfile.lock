@@ -135,7 +135,7 @@
         },
         "setuptools": {
             "hashes": [],
-            "version": "==69.0.2"
+            "version": "==69.1.0"
         },
         "toml": {
             "hashes": [
