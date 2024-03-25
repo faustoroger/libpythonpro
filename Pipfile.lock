@@ -18,7 +18,7 @@
     "default": {
         "certifi": {
             "hashes": [],
-            "version": "==2023.11.17"
+            "version": "==2024.2.2"
         },
         "charset-normalizer": {
             "hashes": [],
@@ -34,17 +34,17 @@
         },
         "urllib3": {
             "hashes": [],
-            "version": "==2.1.0"
+            "version": "==2.2.1"
         }
     },
     "develop": {
         "attrs": {
             "hashes": [],
-            "version": "==23.1.0"
+            "version": "==23.2.0"
         },
         "certifi": {
             "hashes": [],
-            "version": "==2023.11.17"
+            "version": "==2024.2.2"
         },
         "charset-normalizer": {
             "hashes": [],
@@ -56,7 +56,7 @@
         },
         "coverage": {
             "hashes": [],
-            "version": "==7.3.2"
+            "version": "==7.4.4"
         },
         "dparse": {
             "hashes": [],
@@ -64,7 +64,7 @@
         },
         "flake8": {
             "hashes": [],
-            "version": "==6.1.0"
+            "version": "==7.0.0"
         },
         "idna": {
             "hashes": [],
@@ -83,11 +83,11 @@
         },
         "packaging": {
             "hashes": [],
-            "version": "==23.2"
+            "version": "==24.0"
         },
         "pluggy": {
             "hashes": [],
-            "version": "==1.3.0"
+            "version": "==1.4.0"
         },
         "py": {
             "hashes": [
@@ -103,23 +103,23 @@
         },
         "pyflakes": {
             "hashes": [],
-            "version": "==3.1.0"
+            "version": "==3.2.0"
         },
         "pyparsing": {
             "hashes": [],
-            "version": "==3.1.1"
+            "version": "==3.1.2"
         },
         "pytest": {
             "hashes": [],
-            "version": "==7.4.3"
+            "version": "==8.1.1"
         },
         "pytest-cov": {
             "hashes": [],
-            "version": "==4.1.0"
+            "version": "==5.0.0"
         },
         "pytest-mock": {
             "hashes": [],
-            "version": "==3.12.0"
+            "version": "==3.14.0"
         },
         "pyyaml": {
             "hashes": [],
@@ -131,11 +131,11 @@
         },
         "safety": {
             "hashes": [],
-            "version": "==2.3.5"
+            "version": "==3.0.1"
         },
         "setuptools": {
             "hashes": [],
-            "version": "==69.0.2"
+            "version": "==69.2.0"
         },
         "toml": {
             "hashes": [
@@ -155,7 +155,7 @@
         },
         "urllib3": {
             "hashes": [],
-            "version": "==2.1.0"
+            "version": "==2.2.1"
         }
     }
 }
