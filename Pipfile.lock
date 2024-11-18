@@ -115,7 +115,7 @@
         },
         "pytest-cov": {
             "hashes": [],
-            "version": "==4.1.0"
+            "version": "==6.0.0"
         },
         "pytest-mock": {
             "hashes": [],
