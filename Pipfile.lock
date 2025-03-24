@@ -40,7 +40,7 @@
     "develop": {
         "attrs": {
             "hashes": [],
-            "version": "==25.1.0"
+            "version": "==25.3.0"
         },
         "certifi": {
             "hashes": [],
@@ -56,7 +56,7 @@
         },
         "coverage": {
             "hashes": [],
-            "version": "==7.6.12"
+            "version": "==7.7.1"
         },
         "dparse": {
             "hashes": [],
@@ -72,7 +72,7 @@
         },
         "iniconfig": {
             "hashes": [],
-            "version": "==2.0.0"
+            "version": "==2.1.0"
         },
         "mccabe": {
             "hashes": [
@@ -107,7 +107,7 @@
         },
         "pyparsing": {
             "hashes": [],
-            "version": "==3.2.1"
+            "version": "==3.2.2"
         },
         "pytest": {
             "hashes": [],
@@ -135,7 +135,7 @@
         },
         "setuptools": {
             "hashes": [],
-            "version": "==76.0.0"
+            "version": "==77.0.3"
         },
         "toml": {
             "hashes": [
