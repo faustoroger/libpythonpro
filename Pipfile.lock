@@ -22,7 +22,7 @@
         },
         "charset-normalizer": {
             "hashes": [],
-            "version": "==3.4.1"
+            "version": "==3.4.5"
         },
         "idna": {
             "hashes": [],
@@ -48,7 +48,7 @@
         },
         "charset-normalizer": {
             "hashes": [],
-            "version": "==3.4.1"
+            "version": "==3.4.5"
         },
         "click": {
             "hashes": [],
