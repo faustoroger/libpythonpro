@@ -18,45 +18,45 @@
     "default": {
         "certifi": {
             "hashes": [],
-            "version": "==2025.1.31"
+            "version": "==2026.7.22"
         },
         "charset-normalizer": {
             "hashes": [],
-            "version": "==3.4.1"
+            "version": "==3.4.9"
         },
         "idna": {
             "hashes": [],
-            "version": "==3.10"
+            "version": "==3.18"
         },
         "requests": {
             "hashes": [],
-            "version": "==2.32.3"
+            "version": "==2.34.2"
         },
         "urllib3": {
             "hashes": [],
-            "version": "==2.3.0"
+            "version": "==2.7.0"
         }
     },
     "develop": {
         "attrs": {
             "hashes": [],
-            "version": "==25.1.0"
+            "version": "==26.1.0"
         },
         "certifi": {
             "hashes": [],
-            "version": "==2025.1.31"
+            "version": "==2026.7.22"
         },
         "charset-normalizer": {
             "hashes": [],
-            "version": "==3.4.1"
+            "version": "==3.4.9"
         },
         "click": {
             "hashes": [],
-            "version": "==8.1.8"
+            "version": "==8.4.2"
         },
         "coverage": {
             "hashes": [],
-            "version": "==7.6.12"
+            "version": "==7.15.2"
         },
         "dparse": {
             "hashes": [],
@@ -64,15 +64,15 @@
         },
         "flake8": {
             "hashes": [],
-            "version": "==7.1.2"
+            "version": "==7.3.0"
         },
         "idna": {
             "hashes": [],
-            "version": "==3.10"
+            "version": "==3.18"
         },
         "iniconfig": {
             "hashes": [],
-            "version": "==2.0.0"
+            "version": "==2.3.0"
         },
         "mccabe": {
             "hashes": [
@@ -83,11 +83,11 @@
         },
         "packaging": {
             "hashes": [],
-            "version": "==24.2"
+            "version": "==26.2"
         },
         "pluggy": {
             "hashes": [],
-            "version": "==1.5.0"
+            "version": "==1.6.0"
         },
         "py": {
             "hashes": [
@@ -99,43 +99,43 @@
         },
         "pycodestyle": {
             "hashes": [],
-            "version": "==2.12.1"
+            "version": "==2.14.0"
         },
         "pyflakes": {
             "hashes": [],
-            "version": "==3.2.0"
+            "version": "==3.4.0"
         },
         "pyparsing": {
             "hashes": [],
-            "version": "==3.2.1"
+            "version": "==3.3.2"
         },
         "pytest": {
             "hashes": [],
-            "version": "==8.3.5"
+            "version": "==9.1.1"
         },
         "pytest-cov": {
             "hashes": [],
-            "version": "==6.0.0"
+            "version": "==7.1.0"
         },
         "pytest-mock": {
             "hashes": [],
-            "version": "==3.14.0"
+            "version": "==3.15.1"
         },
         "pyyaml": {
             "hashes": [],
-            "version": "==6.0.2"
+            "version": "==6.0.3"
         },
         "requests": {
             "hashes": [],
-            "version": "==2.32.3"
+            "version": "==2.34.2"
         },
         "safety": {
             "hashes": [],
-            "version": "==3.3.1"
+            "version": "==3.8.1"
         },
         "setuptools": {
             "hashes": [],
-            "version": "==76.0.0"
+            "version": "==83.0.0"
         },
         "toml": {
             "hashes": [
@@ -147,11 +147,11 @@
         },
         "tomli": {
             "hashes": [],
-            "version": "==2.2.1"
+            "version": "==2.4.1"
         },
         "urllib3": {
             "hashes": [],
-            "version": "==2.3.0"
+            "version": "==2.7.0"
         }
     }
 }
